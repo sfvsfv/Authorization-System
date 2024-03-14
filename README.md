@@ -1,2 +1,2 @@
 # Authorization-System
-Authorization System，授权系统
+简约的功能实现，实现对ip的检测，配合后端做到授权管理
